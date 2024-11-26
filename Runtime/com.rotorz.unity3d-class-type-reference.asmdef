@@ -1,0 +1,14 @@
+{
+    "name": "com.rotorz.unity3d-class-type-reference",
+    "rootNamespace": "com.rotorz.unity3d-class-type-reference",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
